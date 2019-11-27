@@ -12,7 +12,26 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MyProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/2016.11.01  Площади РВС.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/MainWindow.fxml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/Сводная таблица характеристик РВС.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/Таблица веса доп. элементов РВС.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/расчёт веса.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/Techical_data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Bottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Consolidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Etc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Roof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Shell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/SteelType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/config/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/controllers/InformationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/controllers/MainWindowController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/gui/Information.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/gui/MainWindow.fxml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/2016.11.01  Площади РВС.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/MainWindow.fxml.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/Сводная таблица характеристик РВС.pdf" afterDir="false" />
@@ -346,7 +365,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1886" />
@@ -404,7 +423,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574848527713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574849112720" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tanks-calculator-maven" />
     <property name="project.structure.last.edited" value="Project" />
@@ -517,8 +536,18 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1302000" />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="1" weight="0.25" />
