@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/2016.11.01  Площади РВС.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/MainWindow.fxml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/Сводная таблица характеристик РВС.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/Таблица веса доп. элементов РВС.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/rawDataMaterial/расчёт веса.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/Techical_data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Bottom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Consolidation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Etc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Roof.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/Shell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/calculations/SteelType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/config/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/controllers/InformationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/controllers/MainWindowController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/gui/Information.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyProjects/sample/gui/MainWindow.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/2016.11.01  Площади РВС.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/MainWindow.fxml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/Сводная таблица характеристик РВС.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/Таблица веса доп. элементов РВС.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rawDataMaterial/расчёт веса.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Techical_data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/calculations/Bottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/calculations/Consolidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/calculations/Etc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/calculations/Roof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/calculations/Shell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/calculations/SteelType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/controllers/InformationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/controllers/MainWindowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/gui/Information.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/gui/MainWindow.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="First commit" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -171,13 +122,13 @@
         <counts>
           <entry key="java" value="1763" />
           <entry key="properties" value="76" />
-          <entry key="txt" value="25" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1763" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="Properties" value="76" />
         </counts>
       </usages-collector>
@@ -365,7 +316,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1886" />
@@ -423,7 +374,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574849112720" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574852381829" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tanks-calculator-maven" />
     <property name="project.structure.last.edited" value="Project" />
@@ -547,7 +498,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="1" weight="0.25" />
