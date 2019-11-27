@@ -1,7 +1,5 @@
 package sample.calculations;
 
-import sample.config.Config;
-
 public class Etc {
 
 //    Позже - прикрутить properties
